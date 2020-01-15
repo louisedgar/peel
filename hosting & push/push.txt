@@ -1,1 +1,0 @@
-url endpoint: "https://fcm.googleapis.com/fcm/send/ecBsXs9SpT4:APA91bHCYbqt_Xc2xUnxyR5xqEerTee-UpXDHkE14fTE9KI5DYKYBsVySR4CRFEOmP218RGyvQBqUcnboFYvcVBB8d1I02xk9RHu6nJGb67bIsxiuzIUPb0Tgbx3rmpxeuhZKUuq72tx"
